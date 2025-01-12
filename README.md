@@ -12,6 +12,7 @@ echo DST=token >> .env
 ```bash
 bun index.js
 ```
+
 How to use:
 You first need to run `list` command before all
 Next you can list your servers with `list s`and the channels with `list s <index of the channel>`
